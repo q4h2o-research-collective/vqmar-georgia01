@@ -4,9 +4,9 @@ for Managed Aquifer Recharge Site Selection
 
 Copyright 2026 The VQ-MAR Authors:
 Samar A. Aseeri (King Abdullah University of Science & Technology)
-Jeff Burgett (QuantumRev)
+Jeff Burgett (Q4H2O)
 Julián Melmer Stiefkens (Universidad de Buenos Aires)
-Tom Taylor (QuantumRev)
+Tom Taylor (Q4H2O)
 Adam M. Milewski (University of Georgia)
 
 This product is licensed under the Apache License, Version 2.0
@@ -155,7 +155,7 @@ https://github.com/DOI-USGS/dataretrieval-python
 ACKNOWLEDGMENTS
 ================================================================================
 
-This work was sponsored by QuantumRev. Hardware time on the IBM Kingston
+This work was sponsored by Q4H2O. Hardware time on the IBM Kingston
 superconducting QPU was provided by IBM Quantum.
 
 ================================================================================
