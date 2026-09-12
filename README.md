@@ -317,16 +317,16 @@ The QUBO is solved by classical baselines (greedy, simulated annealing, genetic 
 ## Authors
 
 - **Samar A. Aseeri** — King Abdullah University of Science & Technology
-- **Jeff Burgett** — QuantumRev
+- **Jeff Burgett** — Q4H2O
 - **Julián Melmer Stiefkens** — Universidad de Buenos Aires
-- **Tom Taylor** — QuantumRev
+- **Tom Taylor** — Q4H2O
 - **Adam M. Milewski** — University of Georgia
 
 ---
 
 ## Acknowledgments
 
-Sponsored by QuantumRev. Hardware time provided by IBM Quantum.
+Sponsored by Q4H2O. Hardware time provided by IBM Quantum.
 
 ---
 
