@@ -138,7 +138,7 @@ No API tokens or registrations are required; all five data sources are tokenless
 Clone the repository:
 
 ```bash
-git clone https://github.com/quantumrev-research-collective/vqmar-georgia01.git
+git clone https://github.com/q4h2o-research-collective/vqmar-georgia01.git
 cd vqmar-georgia01
 ```
 
